@@ -22,3 +22,4 @@
 | [Echoes of Adventure: Dimensions](https://github.com/Echoes-Of-Adventure/Dimensions) | Introduces a custom portal system and 18 new dimensions… Don’t ask. | Dev | Only MES Server |
 | [Echoes of Adventure: Quests](https://github.com/Echoes-Of-Adventure/Quests) | Custom quest system integrated with Cities, Factions, Ranks, and Compass systems. | Planned | Only MES Server |
 | [Echoes of Adventure: Mobs](https://github.com/Echoes-Of-Adventure/Mobs) | Full control over mob spawning mechanics, with the possibility of adding new mobs. | Planned | Only MES Server |
+| [Echoes of Adventure: Ascendancy](https://github.com/Echoes-Of-Adventure/Ascendancy) | ... | Planned | Only MES Server |
