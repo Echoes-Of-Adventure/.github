@@ -4,7 +4,7 @@
 
 | Name | Status | Visibility |
 | :- | :-: | :-: |
-| Echoes of Adventure (Library) | Alpha | Private |
+| [Echoes of Adventure (Library)](https://github.com/Echoes-Of-Adventure/Library) | Alpha | Private |
 | [Echoes of Adventure: Compass](https://github.com/Echoes-Of-Adventure/Compass) | Beta | Public |
 | [Echoes of Adventure: Factions](https://github.com/Echoes-Of-Adventure/Factions) | Planned | Private |
 | [Echoes of Adventure: Currency](https://github.com/Echoes-Of-Adventure/Currency) | Dev | Private |
