@@ -8,7 +8,8 @@
 | [Echoes of Adventure: Compass](https://github.com/Echoes-Of-Adventure/Compass) | Beta | Public | Very High |
 | [Echoes of Adventure: Factions](https://github.com/Echoes-Of-Adventure/Factions) | Planned | Private | Medium |
 | [Echoes of Adventure: Currency](https://github.com/Echoes-Of-Adventure/Currency) | Dev | Private | High |
-| [Echoes of Adventure: Radial Menu](https://github.com/Echoes-Of-Adventure/Radial-Menu) | Dev | Private | Very High |
+| [Echoes of Adventure: Radial Menu](https://github.com/Echoes-Of-Adventure/Radial-Menu) | Dev | Public | Very High |
+| [Echoes of Adventure: Runix Matrix](https://github.com/Echoes-Of-Adventure/Runix-Matrix) | Dev | Private | Very High | 
 | [Echoes of Adventure: Teams](https://github.com/Echoes-Of-Adventure/Teams) | Planned | Private | Low |
 | [Echoes of Adventure: Healthfire](https://github.com/Echoes-Of-Adventure/Healthfire) | Planned | Private | Low | 
 | [Echoes of Adventure: Pharma](https://github.com/Echoes-Of-Adventure/Pharma) | Planned | Private | Low |
