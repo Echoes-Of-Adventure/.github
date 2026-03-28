@@ -3,7 +3,7 @@
 ![Forge Version](https://img.shields.io/badge/Forge-47.3.37-red?style=for-the-badge&logo=forge)
 
 ### Public/Private
-| Name | Status | Visibility | Priority |
+| Name | Status | Priority |
 | :- | :-: | :-: | :-: |
 | [Echoes of Adventure (Library)](https://github.com/Echoes-Of-Adventure/Library) | Alpha | High |
 | [Echoes of Adventure: Compass](https://github.com/Echoes-Of-Adventure/Compass) | Beta | Very High |
