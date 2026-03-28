@@ -4,7 +4,7 @@
 
 ### Public/Private
 | Name | Status | Priority |
-| :- | :-: | :-: | :-: |
+| :- | :-: | :-: |
 | [Echoes of Adventure (Library)](https://github.com/Echoes-Of-Adventure/Library) | Alpha | High |
 | [Echoes of Adventure: Compass](https://github.com/Echoes-Of-Adventure/Compass) | Beta | Very High |
 | [Echoes of Adventure: Factions](https://github.com/Echoes-Of-Adventure/Factions) | Planned | Medium |
