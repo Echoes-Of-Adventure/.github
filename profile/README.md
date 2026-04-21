@@ -5,11 +5,11 @@
 ### Public/Private
 | Name | Status | Priority |
 | :- | :-: | :-: |
-| [Echoes of Adventure (Library)](https://github.com/Echoes-Of-Adventure/Library) | Alpha | High |
-| [Echoes of Adventure: Compass](https://github.com/Echoes-Of-Adventure/Compass) | Beta | Very High |
+| [Echoes of Adventure (Library)](https://github.com/Echoes-Of-Adventure/Library) | Beta | High |
+| [Echoes of Adventure: Compass](https://github.com/Echoes-Of-Adventure/Compass) | Release | Low |
 | [Echoes of Adventure: Factions](https://github.com/Echoes-Of-Adventure/Factions) | Planned | Medium |
 | [Echoes of Adventure: Currency](https://github.com/Echoes-Of-Adventure/Currency) | Dev | High |
-| [Echoes of Adventure: Radial Menu](https://github.com/Echoes-Of-Adventure/Radial-Menu) | Dev | Very High |
+| [Echoes of Adventure: Radial Menu](https://github.com/Echoes-Of-Adventure/Radial-Menu) | Release | Low |
 | [Echoes of Adventure: Runix Matrix](https://github.com/Echoes-Of-Adventure/Runix-Matrix) | Dev | Very High | 
 | [Echoes of Adventure: Teams](https://github.com/Echoes-Of-Adventure/Teams) | Planned | Low |
 
