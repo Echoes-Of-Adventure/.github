@@ -9,6 +9,7 @@
 | [Echoes of Adventure: Compass](https://github.com/Echoes-Of-Adventure/Compass) | Release | Low |
 | [Echoes of Adventure: Factions](https://github.com/Echoes-Of-Adventure/Factions) | Planned | Medium |
 | [Echoes of Adventure: Currency](https://github.com/Echoes-Of-Adventure/Currency) | Dev | High |
+| [Echoes of Adventure: Dominions](https://github.com/Echoes-Of-Adventure/Dominion) | Planned | Low |
 | [Echoes of Adventure: Radial Menu](https://github.com/Echoes-Of-Adventure/Radial-Menu) | Release | Low |
 | [Echoes of Adventure: Runix Matrix](https://github.com/Echoes-Of-Adventure/Runix-Matrix) | Dev | Very High | 
 | [Echoes of Adventure: Teams](https://github.com/Echoes-Of-Adventure/Teams) | Planned | Low |
@@ -20,8 +21,9 @@
 | [Echoes of Adventure: Pharma](https://github.com/Echoes-Of-Adventure/Pharma) | Planned | Low |
 | [Echoes of Adventure: Brewing](https://github.com/Echoes-Of-Adventure/Brewing) | Planned | Low |
 | [Echoes of Adventure: Forging](https://github.com/Echoes-Of-Adventure/Forging) | Planned | Low |
+| [Echoes of Adventure: Datapacks](https://github.com/Echoes-Of-Adventure/Datapacks) | Beta | High |
 | [Echoes of Adventure: Utilities](https://github.com/Echoes-Of-Adventure/Utilities) | Beta | High |
-| [Echoes of Adventure: Ranks](https://github.com/Echoes-Of-Adventure/Ranks) | Dev | Medium |
+| [Echoes of Adventure: Races](https://github.com/Echoes-Of-Adventure/Races) | Planned | Low |
 | [Echoes of Adventure: Chronicles](https://github.com/Echoes-Of-Adventure/Chronicles) | Dev | Very High |
 | [Echoes of Adventure: Cities](https://github.com/Echoes-Of-Adventure/Cities) | Planned | Low |
 | [Echoes of Adventure: Structures](https://github.com/Echoes-Of-Adventure/Structures) | Dev | Medium |
